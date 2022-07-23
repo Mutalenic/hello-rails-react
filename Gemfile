@@ -64,3 +64,6 @@ group :development do
   # gem "spring"
 end
 
+gem 'react-rails'
+
+gem 'webpacker'
