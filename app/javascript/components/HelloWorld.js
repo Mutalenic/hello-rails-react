@@ -32,9 +32,9 @@ class HelloWorld extends React.Component {
     return (
       <React.Fragment>
         <div className="container">
-        <p>Hey, {this.props.greeting}</p>
+        <p>Hello {this.props.greeting}</p>
           <button
-            className="getGreetingsbtn"
+            className="refresh-button"
             onClick={() => this.props.getGreetings()}
           >
             Click me
