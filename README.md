@@ -15,7 +15,7 @@
 - [Install Ruby on Rails](https://guides.rubyonrails.org/v5.1/getting_started.html)
 - Clone [this repository](https://github.com/Mutalenic/hello-rails-react.git)
   ```
-  git clone git@github.com:Meri-MG/hello-world-rails-react.git
+  git clone git@github.com:Mutalenic/hello-world-rails-react.git
   ```
 - To get started, In the root directory run:
   ```
